@@ -1,2 +1,2 @@
 # rl.github.io
-rl's web site
+rl's web site on github
